@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/klaus95/imsi-al/static/css/main.f855e6bc.css",
+    "main.js": "/klaus95/imsi-al/static/js/main.8f21d6a8.js",
+    "static/js/592.bef5f9ab.chunk.js": "/klaus95/imsi-al/static/js/592.bef5f9ab.chunk.js",
+    "static/media/logo.svg": "/klaus95/imsi-al/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/klaus95/imsi-al/index.html",
+    "main.f855e6bc.css.map": "/klaus95/imsi-al/static/css/main.f855e6bc.css.map",
+    "main.8f21d6a8.js.map": "/klaus95/imsi-al/static/js/main.8f21d6a8.js.map",
+    "592.bef5f9ab.chunk.js.map": "/klaus95/imsi-al/static/js/592.bef5f9ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8f21d6a8.js"
+  ]
+}
