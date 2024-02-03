@@ -1,6 +1,6 @@
 {
-  "name": "imsi-al",
-  "homepage": "https://klauscipi.dev/imsi-al/",
+  "name": "msi-al",
+  "homepage": "https://klauscipi.dev/msi-al/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
