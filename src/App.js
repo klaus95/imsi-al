@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. MSI-al.com
+          Edit <code>src/App.js</code> and save to reload. Deploy to custom URL: MSI-al.com
         </p>
         <a
           className="App-link"
