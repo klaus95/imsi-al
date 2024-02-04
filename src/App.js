@@ -1,22 +1,24 @@
-import logo from './logo.svg';
+import logo from './loading.svg';
 import './App.css';
 
 function App() {
+  const link = <a className="App-link"
+                  href="mailto:muhamercipi@gmail.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >
+                    contact us
+                  </a>
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload. Deploy to custom URL: MSI-al.com
+        <p className='Title'>
+          UNDER CONSTRACTION
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p className='Subtitle'>
+          For more information {link}.
+        </p>
       </header>
     </div>
   );
